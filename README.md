@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sundar2k22
-- 👀 I’m interested in Machine learning 
+- 👀 I’m interested in Competitive Programming 
 - 🌱 I’m currently learning to adapt to changes 
 - 💞️ I’m looking to collaborate on with top recruiters
 - 📫 How to reach me- simple connect with me through Linkedin
