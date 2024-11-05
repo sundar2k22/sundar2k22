@@ -64,7 +64,7 @@
 ### Competitive Programming
 ![LeetCode](https://custom-icon-badges.demolab.com/badge/-ByteWiz_2k22-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![CodeForces](https://custom-icon-badges.demolab.com/badge/-sundar2k22-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
-![CSES](https://custom-icon-badges.demolab.com/badge/-sundar2k22-1B1B1B?style=for-the-badge&logo=cses&logoColor=white)
+![CSES](https://custom-icon-badges.demolab.com/badge/-sunlakten-1B1B1B?style=for-the-badge&logo=cses&logoColor=white)
 ![TopCoder](https://custom-icon-badges.demolab.com/badge/-sundar2k22-29A7DF?style=for-the-badge&logo=topcoder&logoColor=white)
 ![HackerRank](https://custom-icon-badges.demolab.com/badge/-sunlakten-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
 ![CodeChef](https://custom-icon-badges.demolab.com/badge/-sundar2k22-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
@@ -107,7 +107,7 @@
       CSES
     </td>
     <td align="center">
-      <a href="https://cses.fi/user/sundar2k22">sundar2k22</a>
+      <a href="https://cses.fi/user/sundar2k22">sunlakten</a>
     </td>
   </tr>
   <tr>
