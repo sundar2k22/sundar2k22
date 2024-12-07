@@ -162,7 +162,7 @@
   <a href="https://linkedin.com/in/sundar-r-324319253">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=40" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:sunlakten@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=40" />
   </a>
 </div>
