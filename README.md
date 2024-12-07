@@ -130,7 +130,7 @@
 
 ## 🔥 Featured Projects
 
-- **WebdevelopmentProject**: Online Sports Shop built with HTML, CSS, and JavaScript[1]
+- **FullStack-Project**: Fully Functional ChessWebsite built in MERN Stack[1]
 - **NTRU**: Cryptography implementation in Python[1]
 - **NTRU_NIST**: Cryptographic algorithms in C[1]
 - **CGM-Project**: Computer Graphics project using C++[1]
