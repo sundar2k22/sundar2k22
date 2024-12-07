@@ -2,6 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sundar%20R&fontSize=80&fontAlignY=35&animation=twinkling" />
 </div>
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=Computer+Science+Student;Competitive+Programmer;Full+Stack+Developer;Algorithm+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
+
 <h3 align="center">
     👨‍💻 Algorithm Wizard | Master of Optimization | Competitive Programmer
 </h3>
@@ -43,7 +49,16 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sundar2k22/sundar2k22/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
 ## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sundar2k22&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sundar2k22&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sundar2k22&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
@@ -130,18 +145,29 @@
 
 ## 🔥 Featured Projects
 
-- **FullStack-Project**: Fully Functional ChessWebsite built in MERN Stack[1]
-- **NTRU**: Cryptography implementation in Python[1]
-- **NTRU_NIST**: Cryptographic algorithms in C[1]
-- **CGM-Project**: Computer Graphics project using C++[1]
+- **FullStack-Project**: Fully Functional ChessWebsite built in MERN Stack
+- **NTRU**: Cryptography implementation in Python
+- **NTRU_NIST**: Cryptographic algorithms in C
+- **CGM-Project**: Computer Graphics project using C++
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sundar2k22&theme=react-dark&hide_border=true" />
+</div>
 
 ## 🤝 Let's Connect
 
-<p align="center">
-    <a href="https://linkedin.com/in/sundar-r-324319253">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-</p>
+<div align="center">
+  <a href="https://linkedin.com/in/sundar-r-324319253">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=40" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=40" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sundar2k22&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
