@@ -166,10 +166,14 @@
   <a href="https://linkedin.com/in/sundar-r-324319253">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=40" />
   </a>
-  <a href="mailto:sunlakten@gmail.com">
+  <a href="mailto:sundar.builds@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=40" />
   </a>
+  <a href="https://sundar2k22.netlify.app">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=netlify&logoColor=white&logoWidth=40" />
+  </a>
 </div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sundar2k22&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
