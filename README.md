@@ -59,6 +59,9 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/sundar2k22/sundar2k22/output/github-contribution-grid-snake.svg" />
 </picture>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ## 📊 GitHub Statistics
 
 <div align="center">
