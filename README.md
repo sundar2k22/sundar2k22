@@ -154,10 +154,15 @@
 
 ## 🔥 Featured Projects
 
-- **FullStack-Project**: Fully Functional ChessWebsite built in MERN Stack
-- **NTRU**: Cryptography implementation in Python
-- **NTRU_NIST**: Cryptographic algorithms in C
-- **CGM-Project**: Computer Graphics project using C++
+- **FullStack-Project**: 🏆 ChessMasters Unleashed: MERN Stack Powered Interactive Gaming Platform 🎲
+
+- **NTRU**: 🔐 Cryptographic Brilliance: Advanced Encryption Algorithms in Pure Python 🐍
+
+- **NTRU_NIST**: 🔒 Cryptographic Frontiers: Low-Level Security Implementations in C 🖥️
+
+- **CGM-Project**: 🎨 Visual Computing Odyssey: Cutting-Edge Graphics Rendering with C++ 💻
+  
+- **Portfolio-Website**: 🌟 My Professional Story with Sleek React & Tailwind Magic ✨
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sundar2k22&theme=react-dark&hide_border=true" />
