@@ -20,12 +20,6 @@
     💡 Ready to crush the next coding challenge
 </p>
 
-## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Technology%20Arsenal&align=center&titleAlign=center&lineCount=4&theme=github_dark&line1=python,Python,61DAFB;c%2B%2B,C%2B%2B,00599C;java,Java,F7DF1E;&line2=html5,HTML,E34F26;css3,CSS,1572B6;javascript,JavaScript,323330;&line3=react,React,61DAFB;nodejs,Node.js,339933;express,Express,000000;&line4=mongodb,MongoDB,47A248;mysql,MySQL,4479A1;django,Django,092E20;" alt="Tech Stack" />
-</div>
-
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
