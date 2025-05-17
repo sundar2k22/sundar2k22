@@ -165,6 +165,8 @@
 
 - Portfolio-Website: 🌟 My Professional Story with Sleek React & Tailwind Magic ✨
 
+- Terminal-Portfolio: 🖥️ A Hacker’s Gateway to Me — Styled with React & Tailwind in True Command-Line Glory ⚡
+
 - FoodMaxx: 🍽️ A mouth-watering restaurant website built with sleek, modern frontend design! 🍽️
 
 - HPC-Attention-Mechanism: ⚡ High-Performance Parallelism: Optimized Attention Mechanism with OpenMP & CUDA 💻
